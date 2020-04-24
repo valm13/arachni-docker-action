@@ -1,1 +1,1 @@
-# arachni-docker-action
+zap-proxy-action
